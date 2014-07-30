@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9B283F9F-E115-45EF-B4A1-922AAA85AA66</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Demo_4</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B241CFE9-178C-4661-BA1A-A929B4A0644C</key>
+		<string>https://github.com/bluesea/DemoTest_Personal.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Demo_4/Demo_4.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B241CFE9-178C-4661-BA1A-A929B4A0644C</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bluesea/DemoTest_Personal.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B241CFE9-178C-4661-BA1A-A929B4A0644C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B241CFE9-178C-4661-BA1A-A929B4A0644C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DemoTest_Personal</string>
+		</dict>
+	</array>
+</dict>
+</plist>
